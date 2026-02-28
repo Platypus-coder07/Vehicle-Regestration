@@ -1,0 +1,16 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+*
+# Virtual Environment only
+License_Plate_Recognition_env/
+
+# Dataset (too large - linked in README)
+License-Plate-Recognition-4/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
